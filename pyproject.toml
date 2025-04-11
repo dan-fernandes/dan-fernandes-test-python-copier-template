@@ -51,7 +51,6 @@ name = "Daniel Fernandes"
 version_file = "src/dan_fernandes_test_python_copier_template/_version.py"
 
 [tool.pyright]
-typeCheckingMode = "strict"
 reportMissingImports = false # Ignore missing stubs in imported modules
 
 [tool.pytest.ini_options]

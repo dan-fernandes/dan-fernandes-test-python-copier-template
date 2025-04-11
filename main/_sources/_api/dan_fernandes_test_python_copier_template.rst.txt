@@ -1,0 +1,13 @@
+﻿``dan_fernandes_test_python_copier_template``
+=============================================
+
+.. automodule:: dan_fernandes_test_python_copier_template
+    :members:
+
+    
+    
+    
+
+    
+    
+    

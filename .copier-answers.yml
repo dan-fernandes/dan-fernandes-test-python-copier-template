@@ -1,0 +1,16 @@
+# Changes here will be overwritten by Copier
+_commit: fcdb8b2
+_src_path: ./python-copier-template
+author_email: daniel.fernandes@diamond.ac.uk
+author_name: Daniel Fernandes
+description: Testing new feature in python-copier-template
+distribution_name: dan-fernandes-test-python-copier-template
+docker: true
+docs_type: sphinx
+git_platform: github.com
+github_org: dan-fernandes
+package_name: dan_fernandes_test_python_copier_template
+pypi: true
+repo_name: dan-fernandes-test-python-copier-template
+strict_typing: true
+type_checker: pyright

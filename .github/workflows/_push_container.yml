@@ -6,6 +6,12 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
+      - name: Download container artifact
+        uses: actions/download-artifact@v4
+        with:
+          name: container
+          path: .
+
       - name: Create tags for publishing image
         id: meta
         uses: docker/metadata-action@v5

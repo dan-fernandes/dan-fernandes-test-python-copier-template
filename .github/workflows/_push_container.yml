@@ -10,7 +10,7 @@ jobs:
         uses: actions/download-artifact@v4
         with:
           name: container
-          path: container
+          path: ${{ runner.temp }}
           
       - name: Create tags for publishing image
         id: meta

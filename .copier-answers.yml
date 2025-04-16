@@ -1,6 +1,6 @@
 # Changes here will be overwritten by Copier
 _commit: fcdb8b2
-_src_path: ./python-copier-template
+_src_path: ../python-copier-template
 author_email: daniel.fernandes@diamond.ac.uk
 author_name: Daniel Fernandes
 description: Testing new feature in python-copier-template

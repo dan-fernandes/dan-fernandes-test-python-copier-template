@@ -1,5 +1,5 @@
 # Changes here will be overwritten by Copier
-_commit: fcdb8b2
+_commit: 2.6.0-29-gc2060f7
 _src_path: ../python-copier-template
 author_email: daniel.fernandes@diamond.ac.uk
 author_name: Daniel Fernandes
@@ -12,5 +12,5 @@ github_org: dan-fernandes
 package_name: dan_fernandes_test_python_copier_template
 pypi: true
 repo_name: dan-fernandes-test-python-copier-template
-strict_typing: true
+strict_typing: false
 type_checker: pyright
